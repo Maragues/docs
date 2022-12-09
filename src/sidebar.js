@@ -310,6 +310,11 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Advanced",
+      items: ["advanced/settings"],
+    },
+    {
+      type: "category",
       label: "Actions",
       items: ["guides/integrate-with-ory-cloud-through-webhooks"],
     },
